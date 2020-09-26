@@ -1,0 +1,15 @@
+* {
+  padding: 2px;
+}
+
+div {
+  margin-bottom: 15px;
+}
+
+img {
+  width: 50px;
+}
+
+.blue {
+  background: blue;
+}
